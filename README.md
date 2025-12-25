@@ -12,6 +12,7 @@ DIAGRAM:
 <img width="1286" height="921" alt="Screenshot 2025-12-24 202658" src="https://github.com/user-attachments/assets/19e402a3-f89c-45e8-b763-8c65c9c46a23" />
 
 CIRCUIT DIAGRAM
+
 ![WhatsApp Image 2025-12-25 at 2 18 59 PM](https://github.com/user-attachments/assets/dd2defcb-0320-4aed-8b87-80e781479702)
 
 PROCEDURE: -
